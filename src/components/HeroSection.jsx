@@ -105,7 +105,7 @@ const HeroSection = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.4 }}
           >
-            <span className="text-heavenGold">@GabeDotSui</span> - Your Friendly Neighborhood Angel 😇
+            <span className="text-heavenGold">GabeDotSui</span> - Your Friendly Neighborhood Angel 😇
           </motion.div>
 
           <motion.p
@@ -128,7 +128,7 @@ const HeroSection = () => {
           transition={{ duration: 0.8, delay: 0.8 }}
         >
           {[
-            { label: 'Believers 🙏', value: '15K+', emoji: '👥' },
+            { label: 'Believers 🙏', value: '1K+', emoji: '👥' },
             { label: 'Vibes ✨', value: 'IMMACULATE', emoji: '🔥' },
             { label: 'Energy 💪', value: 'OVER 9000!', emoji: '⚡' },
           ].map((stat, index) => (

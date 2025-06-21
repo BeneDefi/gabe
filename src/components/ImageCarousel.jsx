@@ -11,7 +11,7 @@ const ImageCarousel = () => {
 
   const memeImages = [
     {
-      url: 'https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&w=1200',
+      url: 'https://pbs.twimg.com/media/Gt9WGYkXUAAvaIk?format=jpg&name=240x240',
       title: '🚀 TO THE MOON!',
       description: 'When $GABE hits different and your portfolio goes BRRRR',
       memeText: 'HODL GANG RISE UP',
@@ -19,7 +19,7 @@ const ImageCarousel = () => {
       color: 'from-purple-500 to-pink-500'
     },
     {
-      url: 'https://images.pexels.com/photos/1181677/pexels-photo-1181677.jpeg?auto=compress&cs=tinysrgb&w=1200',
+      url: 'https://pbs.twimg.com/media/Gt9ZHT0WsAATu9T?format=jpg&name=240x240',
       title: '💎 DIAMOND HANDS',
       description: 'This is the way. $GABE believers never sell!',
       memeText: 'DIAMOND HANDS ONLY',
@@ -27,7 +27,7 @@ const ImageCarousel = () => {
       color: 'from-blue-500 to-cyan-500'
     },
     {
-      url: 'https://images.pexels.com/photos/1181676/pexels-photo-1181676.jpeg?auto=compress&cs=tinysrgb&w=1200',
+      url: 'https://pbs.twimg.com/media/Gt5gCPOXcAA7Klt?format=jpg&name=240x240',
       title: '🔥 THIS IS FINE',
       description: 'Market dips? We buy more $GABE. This is fine.',
       memeText: 'BUY THE DIP',
@@ -35,7 +35,7 @@ const ImageCarousel = () => {
       color: 'from-orange-500 to-red-500'
     },
     {
-      url: 'https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&w=1200',
+      url: 'https://pbs.twimg.com/media/Gt368VDWsAAkcGm?format=jpg&name=240x240',
       title: '⚡ WAGMI ENERGY',
       description: 'We All Gonna Make It with $GABE on Sui!',
       memeText: 'WAGMI FOREVER',
@@ -43,7 +43,7 @@ const ImageCarousel = () => {
       color: 'from-yellow-500 to-orange-500'
     },
     {
-      url: 'https://images.pexels.com/photos/1181677/pexels-photo-1181677.jpeg?auto=compress&cs=tinysrgb&w=1200',
+      url: 'https://pbs.twimg.com/media/Gt0f-hiXkAAKwxs?format=jpg&name=360x360',
       title: '🎯 BASED ALERT',
       description: 'Absolutely based memecoin on the most based chain',
       memeText: 'STAY BASED',

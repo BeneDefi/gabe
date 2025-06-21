@@ -88,7 +88,7 @@ const AboutSection = () => {
             >
               Meet{' '}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-heavenGold to-suiBlue">
-                @GabeDotSui
+                GabeDotSui
               </span>
               <motion.span
                 className="block text-3xl mt-2"
@@ -135,7 +135,7 @@ const AboutSection = () => {
                 whileHover={{ scale: 1.05, rotate: 2 }}
               >
                 <div className="text-4xl mb-2">👨‍👩‍👧‍👦</div>
-                <div className="text-3xl font-black text-suiBlue mb-2">15K+</div>
+                <div className="text-3xl font-black text-suiBlue mb-2">1K+</div>
                 <div className="text-gray-600 font-bold">Happy Family Members</div>
               </motion.div>
               <motion.div 
